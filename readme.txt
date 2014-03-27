@@ -1,1 +1,2 @@
-This is a test with a first change.
+This is a test with a first change. 
+And a first change in the staging branch.
